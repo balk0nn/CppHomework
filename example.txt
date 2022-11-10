@@ -1,0 +1,227 @@
+C:\Users\balk0n\CLionProjects\untitled\cmake-build-debug\untitled.exe
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+1
+Enter the first base of the trapezoid
+3
+Enter the second base of the trapezoid
+5
+Enter the height of the trapezoid
+4
+The area of the trapezoid is 16
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+2
+Enter the readius of the circle
+3
+The circumference is 18.8496
+The area of the circle is 28.2743
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+3
+Enter the first cathetus
+3
+Enter the second cathetus
+4
+The lenght of the hypothenuse is 5
+The area of the triangle is 6
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+4
+Enter an integer number
+56
+The sum of this number's digits is 11
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+5
+Enter the 'x' coordinate
+23
+Enter the 'y'coordinate
+34
+In polar coordinates this vector would be (41.0488, 0.976037)
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+6
+Enter the radius
+36
+Enter the azimut
+0.78
+In cartesian coordinates this vector would look like (25.5929, 25.3181
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+7
+Enter the coefficient in front of 'x^2' (Must be nonzero)
+1
+Enter the coefficient in front of 'x'
+4
+Enter the free coefficient
+4
+This quadratic only has a single real solution, which is -2
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+7
+Enter the coefficient in front of 'x^2' (Must be nonzero)
+2
+Enter the coefficient in front of 'x'
+-4
+Enter the free coefficient
+8
+This quadratic has no real roots
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+3
+Enter the first cathetus
+6
+Enter the second cathetus
+8
+The lenght of the hypothenuse is 10
+The area of the triangle is 24
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+7
+Enter the coefficient in front of 'x^2' (Must be nonzero)
+4
+Enter the coefficient in front of 'x'
+0
+Enter the free coefficient
+4
+This quadratic has no real roots
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+7
+Enter the coefficient in front of 'x^2' (Must be nonzero)
+1
+Enter the coefficient in front of 'x'
+0
+Enter the free coefficient
+-4
+ The roots of this quadratic equation are-2 and 2
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+8
+Enter the sides of the triangle separated by a space
+6 8 10
+Medians of the triangle made of medians of the given triangle are: 4.5, 6, 7.5
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+9
+What second of the day it is ?
+86399
+Your loacal time is 23:59
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+10
+Enter the sides of the triangle separated by a space
+1 3 3
+This triangle is Isosceles
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+10
+Enter the sides of the triangle separated by a space
+1 3 5
+This triangle is NOT Isosceles
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+11
+Enter the total cost of your purchase
+1001
+The final cost of your purchase is 900.9
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+12
+Enter your height
+178
+Enter your weight
+57
+You should gain some weight
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+13
+What does 7*7 equal to?
+49
+Correct
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+13
+What does 9*9 equal to?
+80
+Incorrect
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+14
+Enter the amount of time you spent in a phone call
+120
+Enter the day of the week this call was made
+(The number 1 - 7)
+6
+The call costs you 96
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+15
+Enter the number of the month
+4
+April, Spring
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+15
+Enter the number of the month
+10
+October, Fall
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+16
+Enter the number you want to check for it's luck
+123456
+This number is nothing special...
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+16
+Enter the number you want to check for it's luck
+123321
+This number is 'Lucky'
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+17
+Enter the number from 1 to 99
+11
+U vas 11 Kopeek
+
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+17
+Enter the number from 1 to 99
+82
+U vas 82 Kopeyki
+
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+18
+Enter an integer number
+1234
+1234 is not a Palindrome
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+18
+Enter an integer number
+12344321
+12344321 is a Palindrome
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+19
+Enter two numbers separated by a space
+124 4
+Product of digits of 124 is bigger than 4
+Sum of digits of 124 is divisible by 7
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+20
+Enter the sides of the first rectangle separated by a space
+2 4
+Enter the sides of the second rectangle separated by a space
+3 6
+The first rectangle can fit in the second rectangle
+Enter the number of the task you want to solve(1 - 20)
+Enter any other number to leave
+0
+
+Process finished with exit code 0

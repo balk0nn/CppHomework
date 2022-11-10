@@ -245,9 +245,9 @@ string kopeika(int n) {
 }
 
 //Определяем, является ли число палиндромом(Задача 18)
-bool isPalindrome(int n) {
+bool isPalindrome(long n) {
     int a = 0;
-    int b = n;
+    long b = n;
     //Разворачиваем число n
     while (b != 0) {
         a = a * 10 + b % 10;
@@ -436,7 +436,7 @@ int main() {
                 cout << "U vas " << kopeyka << " " << kopeika(kopeyka) + "\n";
                 break;
             case 18:
-                int n2;
+                long n2;
                 cout << "Enter an integer number \n";
                 cin >> n2;
                 (isPalindrome(n)) ? cout << n2 << " is a Palindrome\n" : cout << n2 << " is not a Palindrome\n";
